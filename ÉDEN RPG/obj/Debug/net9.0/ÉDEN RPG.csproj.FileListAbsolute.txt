@@ -1,0 +1,14 @@
+C:\Users\Aluno_Analytics.CENTRO40\Desktop\ÉDEN RPG\bin\Debug\net9.0\ÉDEN RPG.exe
+C:\Users\Aluno_Analytics.CENTRO40\Desktop\ÉDEN RPG\bin\Debug\net9.0\ÉDEN RPG.deps.json
+C:\Users\Aluno_Analytics.CENTRO40\Desktop\ÉDEN RPG\bin\Debug\net9.0\ÉDEN RPG.runtimeconfig.json
+C:\Users\Aluno_Analytics.CENTRO40\Desktop\ÉDEN RPG\bin\Debug\net9.0\ÉDEN RPG.dll
+C:\Users\Aluno_Analytics.CENTRO40\Desktop\ÉDEN RPG\bin\Debug\net9.0\ÉDEN RPG.pdb
+C:\Users\Aluno_Analytics.CENTRO40\Desktop\ÉDEN RPG\obj\Debug\net9.0\ÉDEN RPG.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aluno_Analytics.CENTRO40\Desktop\ÉDEN RPG\obj\Debug\net9.0\ÉDEN RPG.AssemblyInfoInputs.cache
+C:\Users\Aluno_Analytics.CENTRO40\Desktop\ÉDEN RPG\obj\Debug\net9.0\ÉDEN RPG.AssemblyInfo.cs
+C:\Users\Aluno_Analytics.CENTRO40\Desktop\ÉDEN RPG\obj\Debug\net9.0\ÉDEN RPG.csproj.CoreCompileInputs.cache
+C:\Users\Aluno_Analytics.CENTRO40\Desktop\ÉDEN RPG\obj\Debug\net9.0\ÉDEN RPG.dll
+C:\Users\Aluno_Analytics.CENTRO40\Desktop\ÉDEN RPG\obj\Debug\net9.0\refint\ÉDEN RPG.dll
+C:\Users\Aluno_Analytics.CENTRO40\Desktop\ÉDEN RPG\obj\Debug\net9.0\ÉDEN RPG.pdb
+C:\Users\Aluno_Analytics.CENTRO40\Desktop\ÉDEN RPG\obj\Debug\net9.0\ÉDEN RPG.genruntimeconfig.cache
+C:\Users\Aluno_Analytics.CENTRO40\Desktop\ÉDEN RPG\obj\Debug\net9.0\ref\ÉDEN RPG.dll
